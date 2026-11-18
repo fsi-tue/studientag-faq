@@ -12,4 +12,7 @@ out/
 *.cb
 *.cb2
 .*.lb
-
+*.nav
+*.snm
+*.gz
+*.fdb_latexmk
